@@ -16,5 +16,8 @@
     "url": "https://github.com/codyGaurav2/Ecommerce-backend/issues"
   },
   "homepage": "https://github.com/codyGaurav2/Ecommerce-backend#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
